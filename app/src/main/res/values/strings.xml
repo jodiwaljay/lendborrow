@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lend \'n\' BorroW</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_ok">Ok</string>
+</resources>
