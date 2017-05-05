@@ -19,7 +19,6 @@ import java.util.Date;
 public class MainActivity extends AppCompatActivity implements PromptDialog.DialogClickCallback {
 
     private DatabaseController dbController;
-    private final int MY_PERMISSIONS_REQUEST_WRITE_STORAGE = 1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
