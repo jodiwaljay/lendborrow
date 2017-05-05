@@ -13,7 +13,6 @@ buildscript {
     }
 }
 
-apply plugin: 'com.squareup.sqldelight'
 
 allprojects {
     repositories {
